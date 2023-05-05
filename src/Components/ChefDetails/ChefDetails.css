@@ -1,0 +1,23 @@
+.Chef-details{
+    background: linear-gradient(to right, #3494e6, #ec6ead);
+    height: 70vh;
+}
+
+.Chef-details img{
+    width: 140px;
+    height: 140px;
+    border-radius: 50%;
+}
+
+.info{
+    text-align: center;
+    padding: 70px 0;
+}
+
+
+.info li{
+    color: orange;
+    font-weight: bolder;
+    display: inline-block;
+    margin-right: 20px;
+}

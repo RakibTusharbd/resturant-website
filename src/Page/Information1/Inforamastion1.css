@@ -1,0 +1,14 @@
+.eyen{
+    width: 300px;
+    background-color: rgb(47, 5, 125);
+    color: white;
+    font-weight: bolder;
+}
+
+.eyen img{
+    width: 280px;
+    margin: 0 auto;
+    margin-top: 10px;
+    border-radius: 8px;
+}
+
